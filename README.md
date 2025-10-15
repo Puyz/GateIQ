@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1024" height="265" alt="GateIQ - Kopya" src="https://github.com/user-attachments/assets/b62c3041-a528-4847-8883-aef36189fa4b" />
+  <img width="1000" height="249" alt="GateIQ" src="https://github.com/user-attachments/assets/176b1701-e06a-4f94-be41-24da1e7b763b" />
 </p>
 
 # GateIQ — Kurumsal API Geçidi ve Kimlik Doğrulama
