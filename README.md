@@ -2,7 +2,7 @@
   <img width="1024" height="265" alt="GateIQ - Kopya" src="https://github.com/user-attachments/assets/b62c3041-a528-4847-8883-aef36189fa4b" />
 </p>
 
-# GateIQ — Kurumsal API Geçidi ve Kimlik Doğrulama Platformu
+# GateIQ — Kurumsal API Geçidi ve Kimlik Doğrulama
 
 GateIQ, modern dijital ürünler için tasarlanmış, güvenli ve yüksek performanslı bir API geçidi + kimlik doğrulama platformudur. Opaque token mimarisi sayesinde anında oturum sonlandırma, merkezi denetim ve güçlü güvenlik kontrolleri sağlar. .NET 8, YARP, PostgreSQL ve Redis üzerine inşa edilmiştir.
 
